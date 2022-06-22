@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T01:51:03.190Z,40.2663333,-121.1715,4.83,1.42,md,13,112,0.0273,0.1,nc,nc73749336,2022-06-22T08:16:14.728Z,"6km N of Almanor, CA",earthquake,0.58,0.63,0.281,15,reviewed,nc,nc
 2022-06-22T01:49:19.490Z,47.4066667,-114.0793333,11.87,-0.39,md,4,142,0.116,0.02,mb,mb80549579,2022-06-22T14:30:04.840Z,"5 km S of Kicking Horse, Montana",earthquake,0.38,1.46,0.049,2,reviewed,mb,mb
 2022-06-22T01:40:44.100Z,38.8134995,-122.7923355,1.61,0.34,md,7,102,0.00599,0.01,nc,nc73749331,2022-06-22T02:22:15.302Z,"5km NW of The Geysers, CA",earthquake,0.58,1.3,,1,automatic,nc,nc
-2022-06-22T01:31:35.702Z,36.4943,-116.5906,7,0.5,ml,9,131.08,0.105,0.1393,nn,nn00841439,2022-06-22T01:34:33.131Z,"California-Nevada border region",earthquake,,1.4,0.71,4,automatic,nn,nn
+2022-06-22T01:31:35.702Z,36.4943,-116.5906,7,0.5,ml,9,131.08,0.105,0.1393,nn,nn00841439,2022-06-22T01:34:33.131Z,"24 km ENE of Furnace Creek, California",earthquake,,1.4,0.71,4,automatic,nn,nn
 2022-06-22T00:59:20.324Z,38.4061,-118.7412,0.6,1.3,ml,8,181.92,0.055,0.548,nn,nn00841437,2022-06-22T01:02:53.281Z,"16 km SW of Hawthorne, Nevada",earthquake,,0.2,0.43,6,automatic,nn,nn
 2022-06-22T00:53:01.650Z,37.543335,-121.9335022,5.7,1.63,md,15,63,0.0368,0.07,nc,nc73749311,2022-06-22T03:53:19.857Z,"4km E of Fremont, CA",earthquake,0.32,0.7,0.21,13,automatic,nc,nc
 2022-06-22T00:52:07.090Z,17.9525,-66.98,15.65,2.52,md,3,210,,0.13,pr,pr71355418,2022-06-22T01:22:52.940Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,3.54,1.41,0.0711702507855447,3,reviewed,pr,pr
@@ -192,6 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T17:52:29.290Z,54.1983333333333,-165.987333333333,7.47,-0.6,ml,5,224,,0.06,av,av91063673,2022-06-22T07:21:43.610Z,"15 km WNW of Akutan, Alaska",earthquake,0.44,0.37,0.167186971315027,4,reviewed,av,av
 2022-06-21T17:42:41.820Z,35.5935,-117.3895,8.17,2.23,ml,40,64,0.05966,0.16,ci,ci40288640,2022-06-21T22:02:15.500Z,"19km S of Trona, CA",earthquake,0.16,0.39,0.109,20,reviewed,ci,ci
 2022-06-21T17:40:50.324Z,38.1719,-117.8213,9.4,1.3,ml,16,150.91,0.114,0.1286,nn,nn00841382,2022-06-22T02:39:24.608Z,"34 km SE of Mina, Nevada",earthquake,,1.6,0.93,6,reviewed,nn,nn
+2022-06-21T17:30:48.729Z,36.22866667,-95.8215,0,1.45,ml,42,119,0.3185374921,0.46,ok,ok2022mbtr,2022-06-22T15:44:54.109Z,"5 km SSE of Owasso, Oklahoma",quarry blast,,0.5,0.27,4,reviewed,ok,ok
 2022-06-21T17:26:55.010Z,37.6329994,-118.8759995,-0.2,1.66,md,8,142,0.0174,0.02,nc,nc73749106,2022-06-21T17:39:11.209Z,"9km E of Mammoth Lakes, CA",earthquake,0.36,0.56,0.09,9,automatic,nc,nc
 2022-06-21T17:24:56.230Z,31.59305133,-104.008263,9.010864258,2.4,ml,27,49,0.07014405256,0.2,tx,tx2022mbtn,2022-06-21T18:54:39.598Z,"western Texas",earthquake,0.9639155466,0.9018195424,0.2,14,reviewed,tx,tx
 2022-06-21T17:20:20.606Z,59.8493,-151.9987,74.9,1.1,ml,,,,0.53,ak,ak0227wqoe4s,2022-06-21T17:22:40.021Z,"12 km NW of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T16:05:52.130Z,46.80916666666667,-121.971,6.09,-0.15,md,10,236,0.03594,0.13,uw,uw61845062,2022-06-22T01:39:43.740Z,"7 km NE of Ashford, Washington",earthquake,0.58,0.6,0.24527965390171813,9,reviewed,uw,uw
 2022-06-21T16:04:25.560Z,38.8311653,-122.8003311,1.55,0.65,md,17,57,0.01064,0.02,nc,nc73749086,2022-06-21T16:13:10.602Z,"7km W of Cobb, CA",earthquake,0.24,0.52,0.08,3,automatic,nc,nc
 2022-06-21T15:56:00.950Z,19.1245002746582,-155.418670654297,32.439998626709,1.86000001,md,40,180,,0.119999997,hv,hv73050922,2022-06-21T15:59:17.370Z,"10 km SE of Pāhala, Hawaii",earthquake,0.73,1.36000001,0.519999981,13,automatic,hv,hv
-2022-06-21T15:53:34.080Z,59.4272,-151.8989,30.5,1.8,ml,,,,0.8,ak,ak0227wpomlc,2022-06-21T15:55:21.843Z,"7 km N of Nanwalek, Alaska",earthquake,,0.2,,,automatic,ak,ak
