@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-06T17:54:44.140Z,40.5660019,-124.9586639,9.05,2.18,md,20,292,0.5695,0.13,nc,nc73755426,2022-07-06T17:56:16.037Z,"59km W of Ferndale, CA",earthquake,3.61,2.17,0.07,3,automatic,nc,nc
 2022-07-06T17:54:10.570Z,38.7921677,-122.803833,3.38,0.25,md,10,65,0.003882,0.02,nc,nc73755421,2022-07-06T17:55:45.945Z,"4km WNW of The Geysers, CA",earthquake,0.44,1.07,0.11,2,automatic,nc,nc
 2022-07-06T17:37:53.982Z,63.549,-150.7772,0.9,1.2,ml,,,,0.71,ak,ak0228ljubae,2022-07-06T17:39:49.934Z,"47 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-06T17:31:48.270Z,37.8951683,-118.5425034,10.2,1.91,md,8,163,0.2228,0.03,nc,nc73755416,2022-07-06T17:48:14.547Z,"39km NNE of Toms Place, CA",earthquake,0.69,1.66,0.2,7,automatic,nc,nc
