@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-09T10:19:05.630Z,38.8221664,-122.8274994,2.09,1.09,md,25,53,0.01334,0.02,nc,nc73816566,2022-12-09T10:20:41.394Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.18,25,automatic,nc,nc
+2022-12-09T10:37:43.200Z,34.0978333,-117.0505,3.01,1.16,ml,31,88,0.04052,0.2,ci,ci40143959,2022-12-09T10:41:25.554Z,"7km N of Yucaipa, CA",earthquake,0.27,0.71,0.188,28,automatic,ci,ci
+2022-12-09T10:19:05.630Z,38.8221664,-122.8274994,2.09,1.09,md,25,53,0.01334,0.02,nc,nc73816566,2022-12-09T10:42:15.595Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.18,25,automatic,nc,nc
 2022-12-09T10:18:23.690Z,19.2656669616699,-155.421661376953,33.7799987792969,1.97,ml,48,115,,0.140000001,hv,hv73264507,2022-12-09T10:23:55.390Z,"9 km NE of Pāhala, Hawaii",earthquake,0.57,0.720000029,3.85,5,automatic,hv,hv
 2022-12-09T10:02:21.771Z,64.3261,-150.8713,0,1.3,ml,,,,1.06,ak,ak022frfaujl,2022-12-09T10:04:41.180Z,"76 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-09T09:58:49.623Z,61.1537,-151.1385,58.9,1.7,ml,,,,0.58,ak,ak022frf1h6q,2022-12-09T10:01:08.865Z,"3 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -228,7 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T11:00:52.110Z,38.7876663,-122.7699966,2.13,1.09,md,15,81,0.01505,0.02,nc,nc73816156,2022-12-08T11:31:13.197Z,"2km NW of The Geysers, CA",earthquake,0.3,0.54,0.26,18,automatic,nc,nc
 2022-12-08T11:00:09.030Z,38.8363342,-122.7911682,1.68,0.21,md,7,120,0.002169,0.01,nc,nc73816151,2022-12-08T12:18:13.461Z,"6km WNW of Cobb, CA",earthquake,0.5,1.47,0.14,8,automatic,nc,nc
 2022-12-08T10:44:45.010Z,38.8264999,-122.8103333,1.75,0.72,md,13,65,0.003107,0.01,nc,nc73816146,2022-12-08T11:07:14.025Z,"7km NW of The Geysers, CA",earthquake,0.32,0.64,0.06,14,automatic,nc,nc
-2022-12-08T10:41:08.540Z,19.4105,-155.2745,0.89,2.08,ml,18,47,,0.1,hv,hv73263882,2022-12-08T22:58:36.970Z,"Island of Hawaii, Hawaii",earthquake,0.16,0.22,0.255158286429983,11,reviewed,hv,hv
-2022-12-08T10:36:21.240Z,38.8248329,-122.7953339,2.57,0.77,md,17,52,0.0116,0.01,nc,nc73816141,2022-12-08T11:52:13.310Z,"6km W of Cobb, CA",earthquake,0.28,0.65,0.12,17,automatic,nc,nc
-2022-12-08T10:34:51.446Z,36.4489,-116.226,0,0.5,ml,6,258.83,0.045,0.1498,nn,nn00853014,2022-12-09T02:42:43.527Z,"34 km NW of Pahrump, Nevada",earthquake,,0,1.04,3,reviewed,nn,nn
-2022-12-08T10:31:28.760Z,38.8848,-119.6344,1.5,0.7,ml,7,140.62,0.022,0.1455,nn,nn00853013,2022-12-09T02:42:42.035Z,"2 km NNE of Carter Springs, Nevada",earthquake,,4.1,0.38,2,reviewed,nn,nn
