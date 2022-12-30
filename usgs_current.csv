@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T10:45:19.280Z,37.1733322,-121.5544968,9.23,0.92,md,6,182,0.05188,0.01,nc,nc73826751,2022-12-30T10:46:54.816Z,"10km ENE of Morgan Hill, CA",earthquake,0.69,1.68,0.1,6,automatic,nc,nc
+2022-12-30T10:38:15.510Z,38.833168,-122.8161697,1.33,1.08,md,18,71,0.01086,0.02,nc,nc73826746,2022-12-30T10:39:50.008Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,0.21,18,automatic,nc,nc
 2022-12-30T10:35:07.647Z,64.2629,-150.3108,14.1,1.6,ml,,,,0.36,ak,ak022gq5s6gc,2022-12-30T10:36:36.797Z,"54 km W of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-30T10:25:23.550Z,38.8396683,-122.8391647,1.7,0.94,md,10,95,0.003068,0.01,nc,nc73826736,2022-12-30T10:26:59.629Z,"10km NW of The Geysers, CA",earthquake,0.32,0.64,0.23,11,automatic,nc,nc
 2022-12-30T10:21:30.860Z,33.3861667,-116.2881667,10.86,0.79,ml,23,118,0.1597,0.15,ci,ci40151455,2022-12-30T10:25:01.830Z,"17km NNE of Borrego Springs, CA",earthquake,0.33,0.71,0.137,18,automatic,ci,ci
@@ -195,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T10:52:54.680Z,38.8376656,-122.8368301,1.23,0.74,md,11,115,0.001397,0.01,nc,nc73826321,2022-12-29T10:54:31.045Z,"10km NW of The Geysers, CA",earthquake,0.29,0.65,0.39,11,automatic,nc,nc
 2022-12-29T10:51:50.610Z,38.8383331,-122.8366699,1.49,0.74,md,19,82,0.0009585,0.02,nc,nc73826311,2022-12-29T10:53:25.790Z,"10km NW of The Geysers, CA",earthquake,0.18,0.59,0.35,21,automatic,nc,nc
 2022-12-29T10:51:42.910Z,38.8376656,-122.8365021,1.42,1.65,md,22,80,0.001216,0.01,nc,nc73826316,2022-12-29T17:07:22.033Z,"10km NW of The Geysers, CA",earthquake,0.18,0.4,0.2,23,automatic,nc,nc
-2022-12-29T10:38:13.250Z,34.0185,-116.9885,15.33,1.79,ml,66,44,0.08668,0.2,ci,ci40151047,2022-12-29T10:41:51.545Z,"5km ESE of Yucaipa, CA",earthquake,0.19,0.5,0.215,27,automatic,ci,ci
