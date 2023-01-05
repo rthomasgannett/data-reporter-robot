@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-05T04:53:47.990Z,32.9198341,-115.5345001,5.05,1.88,ml,20,84,0.02866,0.22,ci,ci40153743,2023-01-05T04:55:53.133Z,"7km S of Brawley, CA",earthquake,0.44,0.82,0.115,6,automatic,ci,ci
 2023-01-05T04:35:10.310Z,19.2164993286133,-155.463333129883,34.9900016784668,2.1500001,md,32,183,,0.140000001,hv,hv73295472,2023-01-05T04:38:18.950Z,"Hawaii region, Hawaii",earthquake,0.71,0.99000001,2.04999995,6,automatic,hv,hv
+2023-01-05T04:27:40.887Z,37.9771,101.1534,12.165,4.9,mb,47,79,10.572,0.97,us,us7000j27u,2023-01-05T04:49:40.040Z,"108 km WSW of Jinchang, China",earthquake,12.25,5.183,0.065,73,reviewed,us,us
 2023-01-05T04:20:30.120Z,-59.3869,-23.8441,10,4.9,mb,34,181,8.607,0.63,us,us7000j27t,2023-01-05T04:38:04.040Z,"South Sandwich Islands region",earthquake,13.85,1.876,0.096,34,reviewed,us,us
 2023-01-05T04:12:56.230Z,19.1011666666667,-67.9346666666667,50.18,3.31,md,14,335,0.8334,0.25,pr,pr71391048,2023-01-05T04:35:33.820Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,2.39,8.54,0.0835753601240572,10,reviewed,pr,pr
 2023-01-05T04:09:04.751Z,62.974,-150.9565,115.1,1.5,ml,,,,0.25,ak,ak0238c4epk,2023-01-05T04:11:47.476Z,"54 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-01-05T04:03:10.694Z,52.696,-35.0439,10,4.5,mb,34,92,18.83,0.55,us,us7000j27w,2023-01-05T04:44:26.040Z,"Reykjanes Ridge",earthquake,12.25,1.903,0.089,37,reviewed,us,us
 2023-01-05T03:48:49.890Z,36.1651649,-120.208168,24.07,2.16,md,8,140,0.1493,0.29,nc,nc73828921,2023-01-05T04:10:12.673Z,"10km WSW of Huron, CA",earthquake,3.54,1.95,0.05,4,automatic,nc,nc
 2023-01-05T03:38:16.619Z,-10.5982,-74.8769,113.258,4.9,mb,56,85,2.371,0.86,us,us7000j27d,2023-01-05T03:56:05.040Z,"35 km N of Santa Rosa, Peru",earthquake,7.52,7.91,0.047,142,reviewed,us,us
 2023-01-05T03:37:11.840Z,17.9846666666667,-66.8871666666667,12.97,2.84,md,17,98,0.01217,0.09,pr,pr71391028,2023-01-05T04:07:11.630Z,"0 km NNE of Maria Antonia, Puerto Rico",earthquake,0.38,0.21,0.131126433331892,19,reviewed,pr,pr
@@ -36,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T23:23:46.578Z,-19.1854,-69.0573,130.547,5.1,mww,115,72,0.498,0.75,us,us7000j25w,2023-01-05T00:17:30.040Z,"152 km ESE of Arica, Chile",earthquake,5.31,3.923,0.053,34,reviewed,us,us
 2023-01-04T23:13:14.490Z,17.9483333333333,-66.9653333333333,10.7,1.74,md,6,215,0.07797,0.09,pr,pr71390973,2023-01-04T23:21:30.170Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.85,0.173103970598206,4,reviewed,pr,pr
 2023-01-04T23:02:52.660Z,17.9141666666667,-66.8676666666667,15.09,2.01,md,8,246,0.06155,0.14,pr,pr71390963,2023-01-04T23:21:36.630Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.9,0.69,0.047857012049241,5,reviewed,pr,pr
+2023-01-04T22:36:04.250Z,47.4205,-122.71983333333333,25.54,1.55,ml,16,84,0.1604,0.14,uw,uw61901421,2023-01-05T04:48:45.130Z,"6 km W of Burley, Washington",earthquake,0.34,1.08,0.16515844321906248,6,reviewed,uw,uw
 2023-01-04T22:24:22.310Z,32.5935,-116.9973333,2.57,1.7,ml,15,248,0.1491,0.21,ci,ci40153719,2023-01-04T22:27:50.394Z,"6km SE of Chula Vista, CA",quarry blast,1.15,1.04,0.117,23,automatic,ci,ci
 2023-01-04T22:13:31.640Z,19.2333335876465,-155.39599609375,31.9899997711182,2.31,ml,42,141,,0.129999995,hv,hv73295177,2023-01-04T22:41:20.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.699999988,2.81,10,automatic,hv,hv
 2023-01-04T21:49:09.290Z,38.7791672,-122.7314987,1.23,1.7,md,17,77,0.005762,0.03,nc,nc73828861,2023-01-04T22:48:12.826Z,"2km E of The Geysers, CA",earthquake,0.24,0.42,0.13,17,automatic,nc,nc
@@ -119,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T10:07:50.009Z,65.054,-148.9101,15.1,1.3,ml,,,,0.33,ak,ak0236s5bw8,2023-01-04T10:09:37.882Z,"northern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-04T10:04:28.361Z,31.7246,73.9665,10,3.5,mb,12,196,2.009,0.42,us,us7000j22v,2023-01-04T15:09:51.764Z,"2 km NW of Shekhupura, Pakistan",earthquake,10.84,2.011,0.493,1,reviewed,us,us
 2023-01-04T10:04:10.780Z,34.3626667,-116.7413333,2.25,1.08,ml,14,119,0.07274,0.18,ci,ci40153559,2023-01-04T10:07:37.452Z,"15km NE of Big Bear City, CA",earthquake,0.33,0.5,0.189,20,automatic,ci,ci
-2023-01-04T10:01:51.608Z,61.8541,-150.839,55.1,1.9,ml,,,,0.61,ak,ak0236s41q0,2023-01-04T10:03:59.780Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-04T10:01:51.608Z,61.8541,-150.839,55.1,1.9,ml,,,,0.61,ak,ak0236s41q0,2023-01-04T10:03:59.780Z,"33 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-04T09:58:09.800Z,34.011,-117.5685,7.4,0.88,ml,18,114,0.008568,0.15,ci,ci40153551,2023-01-04T10:01:43.694Z,"5km WNW of Mira Loma, CA",earthquake,0.37,0.41,0.191,23,automatic,ci,ci
 2023-01-04T09:53:50.030Z,33.397,-116.3796667,4.25,0.82,ml,27,96,0.1318,0.23,ci,ci40153543,2023-01-04T09:57:25.106Z,"16km N of Borrego Springs, CA",earthquake,0.38,0.86,0.106,16,automatic,ci,ci
 2023-01-04T09:52:31.920Z,35.8673333,-117.4905,8.27,1.03,ml,14,82,0.101,0.15,ci,ci40153535,2023-01-04T09:56:02.419Z,"14km NW of Searles Valley, CA",earthquake,0.35,0.97,0.157,7,automatic,ci,ci
@@ -171,5 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T05:08:07.807Z,60.9531,-150.7134,14.1,1.6,ml,,,,0.35,ak,ak0236p6abw,2023-01-04T05:10:02.753Z,"3 km NNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-04T05:05:56.608Z,37.1385,-117.3177,5.3,0.8,ml,7,154.12,0.148,0.1346,nn,nn00854531,2023-01-05T02:44:45.407Z,"55 km WNW of Beatty, Nevada",earthquake,,5.1,1.06,6,reviewed,nn,nn
 2023-01-04T04:58:33.690Z,19.1200008392334,-155.386505126953,31.5100002288818,1.74000001,md,37,187,,0.100000001,hv,hv73294407,2023-01-04T05:01:43.650Z,"13 km SE of Pāhala, Hawaii",earthquake,0.61,1.02999997,0.860000014,8,automatic,hv,hv
-2023-01-04T04:54:42.370Z,31.68932281,-104.485758,4.948999022999999,3,ml,12,75,0.02438604685,0.1,tx,tx2023afwf,2023-01-04T22:31:52.373Z,"54 km S of Whites City, New Mexico",earthquake,1.0739596,1.221349849,0.1,11,reviewed,tx,tx
-2023-01-04T04:53:40.490Z,34.358,-116.9221667,4.5,1.26,ml,24,64,0.07898,0.2,ci,ci40153463,2023-01-04T14:50:40.140Z,"10km SSE of Lucerne Valley, CA",earthquake,0.36,0.7,0.12,26,reviewed,ci,ci
