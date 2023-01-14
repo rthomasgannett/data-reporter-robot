@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-14T11:08:53.524Z,34.9850502,-97.64414215,1.542161107,1.99,ml,17,50.70597839,0.07859605551,0.7054701383,ok,ok2023aypp,2023-01-14T11:09:53.153Z,"5 km SSW of Dibble, Oklahoma",earthquake,2.560540144,2.386004531,,7,automatic,ok,ok
+2023-01-14T11:08:53.425Z,34.98816299,-97.64746857,2.059368134,2.08,ml,20,50.82662964,0.08263543993,0.6806819962,ok,ok2023aypp,2023-01-14T11:11:03.362Z,"5 km SSW of Dibble, Oklahoma",earthquake,2.405385137,2.099263754,,16,automatic,ok,ok
 2023-01-14T10:27:02.043Z,31.6627,-104.4028,5,2.5,ml,21,117,0.415,0.22,us,us7000j4da,2023-01-14T10:52:50.040Z,"56 km S of Whites City, New Mexico",earthquake,1.59,1.898,0.066,44,reviewed,us,us
 2023-01-14T10:01:07.990Z,38.8241653,-122.8533325,2.2,1.65,md,31,57,,0.02,nc,nc73831836,2023-01-14T10:48:10.988Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.33,0.21,32,automatic,nc,nc
 2023-01-14T09:59:13.890Z,38.8236656,-122.8539963,2.03,2.09,md,36,56,,0.04,nc,nc73831831,2023-01-14T10:20:10.822Z,"10km WNW of The Geysers, CA",earthquake,0.19,0.29,0.17,36,automatic,nc,nc
