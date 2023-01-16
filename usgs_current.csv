@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T09:08:55.891Z,61.6343,-151.8413,101.6,3,ml,,,,0.59,ak,ak023oygxu7,2023-01-15T09:22:33.040Z,"46 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-15T09:03:54.430Z,33.9775,-116.3935,8.2,1.29,ml,28,74,0.03885,0.18,ci,ci40402760,2023-01-15T09:07:23.777Z,"10km E of Desert Hot Springs, CA",earthquake,0.34,0.56,0.207,28,automatic,ci,ci
 2023-01-15T08:52:37.150Z,37.8306656,-121.9848328,7.32,1.96,md,17,99,0.0288,0.1,nc,nc73832191,2023-01-15T10:31:05.144Z,"2km NE of Danville, CA",earthquake,0.31,0.49,0.16,14,automatic,nc,nc
-2023-01-15T08:43:28.700Z,18.6873333333333,-67.0185,53.5,2.91,md,25,237,0.1985,0.1,pr,pr71392778,2023-01-15T09:31:23.200Z,"Mona Passage",earthquake,0.35,0.44,0.166921754008067,16,reviewed,pr,pr
