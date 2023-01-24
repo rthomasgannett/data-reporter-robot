@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-24T23:13:20.960Z,38.791832,-122.7494965,10.04,0.78,md,7,171,0.01187,0.04,nc,nc73836816,2023-01-24T23:14:59.693Z,"2km NNE of The Geysers, CA",earthquake,2.86,7.05,0.04,4,automatic,nc,nc
+2023-01-24T23:46:10.060Z,38.7718315,-122.7348328,1.28,1.28,md,14,103,0.01148,0.03,nc,nc73836831,2023-01-24T23:47:42.833Z,"2km ESE of The Geysers, CA",earthquake,0.21,0.32,0.18,11,automatic,nc,nc
+2023-01-24T23:36:43.050Z,36.0068333,-117.8753333,1.37,1.55,ml,15,65,0.05913,0.14,ci,ci40161007,2023-01-24T23:40:21.005Z,"8km ESE of Coso Junction, CA",earthquake,0.28,0.46,0.195,20,automatic,ci,ci
+2023-01-24T23:13:20.960Z,38.791832,-122.7494965,10.04,0.78,md,7,171,0.01187,0.04,nc,nc73836816,2023-01-24T23:43:10.825Z,"2km NNE of The Geysers, CA",earthquake,2.86,7.05,0.04,4,automatic,nc,nc
 2023-01-24T23:10:16.160Z,35.6673333,-117.5443333,10.41,0.99,ml,11,149,0.1048,0.11,ci,ci40160999,2023-01-24T23:13:54.052Z,"13km ENE of Ridgecrest, CA",earthquake,0.35,0.75,0.223,9,automatic,ci,ci
 2023-01-24T23:09:14.970Z,38.831665,-122.8168335,1.87,0.67,md,10,67,0.009802,0.01,nc,nc73836811,2023-01-24T23:37:11.673Z,"8km NW of The Geysers, CA",earthquake,0.33,0.84,0.18,13,automatic,nc,nc
 2023-01-24T23:00:55.960Z,38.8391685,-122.8089981,0.14,1.04,md,15,61,0.01459,0.05,nc,nc73836806,2023-01-24T23:23:11.578Z,"8km WNW of Cobb, CA",earthquake,0.2,0.69,0.16,17,automatic,nc,nc
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T19:25:40.572Z,2.999,127.0786,52.052,4.4,mb,48,108,2.231,1.05,us,us6000jizd,2023-01-24T22:16:41.040Z,"Molucca Sea",earthquake,6.48,7.356,0.094,37,reviewed,us,us
 2023-01-24T19:22:03.206Z,58.4377,-152.6902,57,2.3,ml,,,,0.2,ak,ak023140cacg,2023-01-24T19:24:09.026Z,"44 km NNE of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-24T19:14:09.320Z,38.8223343,-122.7699966,3.02,0.71,md,7,159,0.008125,0.03,nc,nc73836776,2023-01-24T19:52:11.343Z,"4km W of Cobb, CA",earthquake,0.96,1.39,0.13,9,automatic,nc,nc
-2023-01-24T19:11:41.190Z,38.8206673,-122.7626648,2.05,1.54,md,29,56,,0.02,nc,nc73836771,2023-01-24T20:07:13.551Z,"3km W of Cobb, CA",earthquake,0.2,0.35,0.12,30,automatic,nc,nc
+2023-01-24T19:11:41.190Z,38.8206673,-122.7626648,2.05,1.54,md,29,56,,0.02,nc,nc73836771,2023-01-24T23:39:12.686Z,"3km W of Cobb, CA",earthquake,0.2,0.35,0.12,30,automatic,nc,nc
 2023-01-24T19:08:29.504Z,-21.6237,-68.4797,121.452,4.5,mb,52,36,0.729,1.12,us,us6000jiz1,2023-01-24T19:56:16.040Z,"Chile-Bolivia border region",earthquake,4.02,6.104,0.084,47,reviewed,us,us
 2023-01-24T19:03:39.910Z,38.4881667,-112.8381667,0.22,-0.56,md,9,105,0.02764,0.16,uu,uu60530257,2023-01-24T19:20:22.120Z,"Utah",earthquake,0.38,7.07,0.204,3,reviewed,uu,uu
 2023-01-24T18:55:06.460Z,19.0576667785645,-155.411499023438,34.9700012207031,2.31,ml,43,201,,0.150000006,hv,hv73311837,2023-01-24T21:51:44.040Z,"17 km SSE of Pāhala, Hawaii",earthquake,0.62,1.10000002,2.91,6,automatic,hv,hv
@@ -200,6 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T04:10:02.790Z,19.0418338775635,-155.40983581543,32.9300003051758,2.21000004,md,42,240,,0.129999995,hv,hv73311227,2023-01-24T04:13:12.960Z,"18 km E of Naalehu, Hawaii",earthquake,0.56,1.25999999,1.01999998,12,automatic,hv,hv
 2023-01-24T04:09:45.199Z,62.3044,-148.5229,33,1.6,ml,,,,0.41,ak,ak02313rc37b,2023-01-24T04:11:41.730Z,"56 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-24T04:06:16.960Z,35.823,-117.6355,4.29,1.48,ml,26,99,0.03171,0.12,ci,ci40405192,2023-01-24T16:49:21.857Z,"22km WNW of Searles Valley, CA",earthquake,0.17,0.33,0.253,12,reviewed,ci,ci
+2023-01-24T04:05:37.756Z,-20.6561,-177.6509,382.398,4.4,mb,45,77,2.344,0.77,us,us6000jiuj,2023-01-24T23:47:55.040Z,"259 km WNW of Haveluloto, Tonga",earthquake,8.03,6.013,0.067,65,reviewed,us,us
 2023-01-24T04:02:54.571Z,2.8152,127.0691,35,4.9,mb,37,110,2.051,0.64,us,us6000jiud,2023-01-24T23:19:32.040Z,"159 km NW of Tobelo, Indonesia",earthquake,10.07,1.93,0.082,46,reviewed,us,us
 2023-01-24T04:01:49.450Z,42.029666666666664,-124.48116666666667,-0.42,1.93,ml,11,262,0.1475,0.15,uw,uw61894542,2023-01-24T05:19:53.700Z,"near the coast of Oregon",earthquake,1.28,0.96,0.0887698546836293,7,reviewed,uw,uw
 2023-01-24T03:41:00.088Z,62.8714,-148.3542,59,1.7,ml,,,,0.22,ak,ak02313qxf14,2023-01-24T03:43:34.710Z,"65 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -243,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T00:21:30.528Z,60.2608,-151.0698,46.2,1.9,ml,,,,0.43,ak,ak02313p0w8s,2023-01-24T00:23:11.449Z,"14 km SE of Kasilof, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-24T00:19:10.110Z,48.419333333333334,-123.56966666666666,-0.27,0.87,ml,9,118,0.1631,0.23,uw,uw61894522,2023-01-24T21:32:56.200Z,"4 km NNW of Metchosin, Canada",earthquake,0.84,2.15,0.18794414783369096,5,reviewed,uw,uw
 2023-01-24T00:00:03.610Z,48.50483333333333,-123.50533333333334,-0.2,0.86,ml,3,159,0.1493,0.01,uw,uw61894517,2023-01-24T00:12:47.970Z,"6 km N of Langford, Canada",explosion,0.4,31.61,0.06990584441762482,4,reviewed,uw,uw
-2023-01-23T23:46:55.600Z,37.5203333,-118.7826667,5.83,1.41,md,20,60,0.05459,0.03,nc,nc73836466,2023-01-24T23:01:11.408Z,"10km WSW of Toms Place, CA",earthquake,0.26,0.8,0.09,16,reviewed,nc,nc
