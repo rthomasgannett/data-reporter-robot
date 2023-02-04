@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-04T05:33:23.837Z,63.5539,-147.4164,17.1,1.6,ml,,,,0.59,ak,ak0231lyzfry,2023-02-04T05:35:58.169Z,"76 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-02-04T05:31:53.740Z,33.7121667,-116.823,14.18,0.29,ml,10,100,0.123,0.25,ci,ci40410648,2023-02-04T05:35:25.706Z,"8km ESE of Valle Vista, CA",earthquake,1.04,2.81,0.115,7,automatic,ci,ci
+2023-02-04T05:28:32.510Z,57.5513,-154.9238,17.1,1.7,ml,,,,0.2,ak,ak0231lyydv7,2023-02-04T05:31:50.309Z,"28 km W of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-04T05:11:23.810Z,33.874,-116.8246667,12.77,0.6,ml,18,60,0.04627,0.23,ci,ci40410640,2023-02-04T05:14:53.566Z,"6km SW of Cabazon, CA",earthquake,0.48,0.99,0.147,16,automatic,ci,ci
+2023-02-04T05:09:36.637Z,-21.87,-173.9015,10,5.2,mb,25,115,1.399,1.06,us,us6000jlc7,2023-02-04T05:26:56.040Z,"Tonga",earthquake,6.77,1.826,0.102,32,reviewed,us,us
 2023-02-04T04:32:36.800Z,38.8283348,-122.8539963,1.64,1.06,md,21,62,0.002381,0.03,nc,nc73841646,2023-02-04T05:00:12.632Z,"10km NW of The Geysers, CA",earthquake,0.2,0.36,0.12,21,automatic,nc,nc
 2023-02-04T04:24:11.000Z,19.1776666666667,-155.398166666667,30.8,1.4,md,23,193,,0.1,hv,hv73318887,2023-02-04T04:41:55.320Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.56,0.67,0.0729586689946097,14,reviewed,hv,hv
 2023-02-04T04:11:35.665Z,60.5045,-143.0658,4.5,1.1,ml,,,,0.59,ak,ak0231ly9bby,2023-02-04T04:13:23.194Z,"103 km S of McCarthy, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -179,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T12:40:20.560Z,58.1851666666667,-155.281333333333,1.52,-0.2,ml,8,148,,0.07,av,av91754596,2023-02-04T00:28:59.430Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.83,0.303644829246037,8,reviewed,av,av
 2023-02-03T12:34:02.290Z,19.2089996337891,-155.390167236328,31.2700004577637,2.24,ml,42,158,,0.119999997,hv,hv73318487,2023-02-03T12:39:33.900Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.939999998,4,5,automatic,hv,hv
 2023-02-03T12:33:13.280Z,58.4098333333333,-154.9065,6.08,-0.1,ml,8,147,,0.21,av,av91754591,2023-02-04T00:26:08.240Z,"Alaska Peninsula",earthquake,0.6,1.37,0.258965620014897,8,reviewed,av,av
-2023-02-03T12:25:27.530Z,58.181,-155.321,1.06,-0.59,ml,7,163,,0.04,av,av91754581,2023-02-04T00:23:25.480Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.77,0.240016098638612,7,reviewed,av,av
+2023-02-03T12:25:27.530Z,58.181,-155.321,1.06,-0.59,ml,7,163,,0.04,av,av91754581,2023-02-04T00:23:25.480Z,"Alaska Peninsula",earthquake,0.22,0.77,0.240016098638612,7,reviewed,av,av
 2023-02-03T12:23:06.620Z,46.944833333333335,-122.021,9.68,0.46,ml,16,106,0.02684,0.11,uw,uw61905226,2023-02-03T18:51:14.980Z,"15 km S of Carbonado, Washington",earthquake,0.42,0.5,0.12407205234952873,9,reviewed,uw,uw
 2023-02-03T12:22:23.521Z,61.6376,-151.3149,12.1,1.8,ml,,,,0.3,ak,ak0231kfjrm8,2023-02-04T00:21:19.440Z,"39 km S of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-03T12:19:39.950Z,33.3525,-116.3785,12.44,1.77,ml,69,56,0.0274,0.17,ci,ci40165783,2023-02-03T20:03:55.640Z,"11km N of Borrego Springs, CA",earthquake,0.17,0.41,0.116,26,reviewed,ci,ci
@@ -260,5 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T06:00:42.610Z,53.3851666666667,-168.202166666667,6.25,0.47,ml,4,248,,0.27,av,av91086988,2023-02-03T22:20:53.640Z,"66 km NE of Nikolski, Alaska",earthquake,3.36,1.79,0.312329787584817,3,reviewed,av,av
 2023-02-03T05:50:01.122Z,60.2199,-139.6545,0,1.7,ml,,,,0.6,ak,ak0231kbjopc,2023-02-03T05:52:22.699Z,"75 km N of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-03T05:45:59.870Z,38.8390007,-122.7705002,1.87,1.23,md,10,159,0.005843,0.01,nc,nc73841301,2023-02-03T08:10:14.392Z,"4km WNW of Cobb, CA",earthquake,0.39,0.47,0.2,10,automatic,nc,nc
-2023-02-03T05:37:04.620Z,33.7065,-116.7625,15.78,1.53,ml,66,30,0.04056,0.14,ci,ci40165719,2023-02-03T19:24:05.466Z,"6km SW of Idyllwild, CA",earthquake,0.14,0.24,0.169,32,reviewed,ci,ci
-2023-02-03T05:27:25.987Z,28.8885498,-98.10868566,6.798421224,2.1,ml,17,55,0.12669389,0.6,tx,tx2023cisl,2023-02-03T22:56:05.189Z,"13 km SW of Falls City, Texas",earthquake,1.212150453,2.003724769,0.1,13,reviewed,tx,tx
