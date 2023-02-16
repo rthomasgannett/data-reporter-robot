@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-16T20:44:27.286Z,59.6598,-152.1975,86.6,1.4,ml,,,,0.14,ak,ak023262fgy7,2023-02-16T20:47:09.340Z,"24 km WSW of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-02-16T20:24:01.150Z,32.6041667,-116.986,2.66,1.45,ml,13,258,0.04724,0.15,ci,ci40415408,2023-02-16T20:27:43.056Z,"6km ESE of Chula Vista, CA",quarry blast,1.07,0.45,0.219,9,automatic,ci,ci
 2023-02-16T20:19:13.134Z,63.0195,-151.3114,14.3,1.4,ml,,,,0.87,ak,ak023262a2xd,2023-02-16T20:21:03.267Z,"61 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-16T20:17:51.060Z,39.757,-123.4434967,4.74,2.4,md,15,112,0.05912,0.07,nc,nc73847456,2023-02-16T20:24:09.943Z,"8km NNE of Laytonville, CA",earthquake,0.27,0.58,0.13,13,automatic,nc,nc
@@ -71,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T12:41:43.210Z,35.2025,-118.6691667,6.33,1.09,ml,31,58,0.03272,0.18,ci,ci40415264,2023-02-16T18:31:02.200Z,"14km E of Arvin, CA",earthquake,0.25,0.45,0.215,11,reviewed,ci,ci
 2023-02-16T12:38:35.600Z,38.8088341,-122.8160019,2.93,1.07,md,17,58,0.01029,0.02,nc,nc73847261,2023-02-16T12:56:13.219Z,"6km NW of The Geysers, CA",earthquake,0.29,0.69,0.19,21,automatic,nc,nc
 2023-02-16T12:37:26.920Z,31.4713333,-115.7108333,20.85,2.83,ml,11,121,0.1013,0.19,ci,ci40415256,2023-02-16T18:24:12.313Z,"86km ESE of Maneadero, B.C., MX",earthquake,0.48,0.76,0.142,42,reviewed,ci,ci
-2023-02-16T12:25:28.086Z,32.75665283,-100.6508432,8.192342122,2.5,ml,16,94,0.07266699627,0.1,tx,tx2023dgzt,2023-02-16T20:31:11.449Z,"16 km NE of Hermleigh, Texas",earthquake,0.7606245569,1.131137105,0.1,13,reviewed,tx,tx
+2023-02-16T12:25:28.086Z,32.75665283,-100.6508432,8.192342122,2.5,ml,16,94,0.07266699627,0.1,tx,tx2023dgzt,2023-02-16T20:46:05.505Z,"16 km NE of Hermleigh, Texas",earthquake,0.7606245569,1.131137105,0.1,13,reviewed,tx,tx
 2023-02-16T12:21:33.440Z,41.514,-112.1748333,5.01,0.36,md,10,82,0.09485,0.14,uu,uu60531381,2023-02-16T19:54:00.870Z,"6 km SW of Corinne, Utah",earthquake,0.37,1.94,0.161,6,reviewed,uu,uu
 2023-02-16T12:15:07.850Z,36.9271666666667,-89.1966666666667,6.07,2.35,md,31,81,0.1523,0.18,nm,nm60510921,2023-02-16T13:52:20.559Z,"2 km ENE of Wilson City, Missouri",earthquake,0.28,2.04,0.111338733037613,20,reviewed,nm,nm
 2023-02-16T12:09:21.060Z,36.9463348,-121.3131638,6.88,1.51,md,18,55,0.06502,0.08,nc,nc73847256,2023-02-16T15:04:15.977Z,"13km NE of Hollister, CA",earthquake,0.26,0.78,0.13,16,automatic,nc,nc
@@ -93,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T11:03:04.681Z,32.75848389,-100.6529869,6.725056966,2.2,ml,20,57,0.07298495671,0.2,tx,tx2023dgxa,2023-02-16T20:42:09.394Z,"16 km NE of Hermleigh, Texas",earthquake,0.7946374662,1.882198269,0.1,15,reviewed,tx,tx
 2023-02-16T10:47:56.440Z,17.962,-66.8246666666667,13.88,2.14,md,8,169,0.05356,0.31,pr,pr71396458,2023-02-16T11:11:21.800Z,"3 km S of Indios, Puerto Rico",earthquake,1.1,0.8,0.0864784240075714,4,reviewed,pr,pr
 2023-02-16T10:47:44.796Z,32.75665283,-100.6529869,7.311971029,2.2,ml,13,70,0.07408803692,0.1,tx,tx2023dgwn,2023-02-16T20:35:56.720Z,"16 km NE of Hermleigh, Texas",earthquake,0.6111408272,1.145957948,0.1,15,reviewed,tx,tx
-2023-02-16T10:42:32.399Z,32.74932861,-100.6594179,9.121622721,2.6,ml,18,70,0.08288434074,0.1,tx,tx2023dgwi,2023-02-16T20:25:08.116Z,"15 km NE of Hermleigh, Texas",earthquake,0.5881133163,0.737318453,0.1,14,reviewed,tx,tx
+2023-02-16T10:42:32.399Z,32.74932861,-100.6594179,9.121622721,2.6,ml,18,70,0.08288434074,0.1,tx,tx2023dgwi,2023-02-16T20:45:05.533Z,"15 km NE of Hermleigh, Texas",earthquake,0.5881133163,0.737318453,0.1,14,reviewed,tx,tx
 2023-02-16T10:36:19.469Z,32.7520752,-100.6604897,7.678792318,2.1,ml,15,57,0.0818850177,0.2,tx,tx2023dgwd,2023-02-16T16:31:33.566Z,"15 km NE of Hermleigh, Texas",earthquake,0.7687652558,1.568471893,0.1,7,reviewed,tx,tx
 2023-02-16T10:33:58.875Z,14.9799,119.8248,52.437,5,mww,137,92,7.886,0.63,us,us6000jpc7,2023-02-16T15:09:13.904Z,"Luzon, Philippines",earthquake,9.12,7.018,0.098,10,reviewed,us,us
 2023-02-16T10:33:02.340Z,62.1301,-148.6748,12.8,1.6,ml,,,,0.33,ak,ak02325weq2i,2023-02-16T10:35:23.022Z,"38 km NNW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -246,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-15T21:28:03.280Z,44.7938333,-110.794,6.56,0.77,md,8,247,0.04061,0.11,uu,uu60531306,2023-02-15T21:39:16.410Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.6,1.04,0.321,6,reviewed,uu,uu
 2023-02-15T21:19:44.440Z,34.8853333,-119.3781667,9.81,1.15,ml,18,65,0.06172,0.17,ci,ci40414896,2023-02-15T21:52:11.912Z,"19km S of Maricopa, CA",earthquake,0.32,0.58,0.238,4,reviewed,ci,ci
 2023-02-15T21:00:42.268Z,6.7488,125.4181,43.969,4.5,mb,25,124,0.357,0.55,us,us6000jp86,2023-02-16T20:15:43.587Z,"6 km E of Digos, Philippines",earthquake,10.83,6.985,0.119,21,reviewed,us,us
-2023-02-15T20:52:11.730Z,35.984,-117.3145,2.41,1.61,ml,18,144,0.09624,0.17,ci,ci40414880,2023-02-15T22:01:16.507Z,"25km NNE of Trona, CA",earthquake,0.31,0.71,0.09,15,reviewed,ci,ci
-2023-02-15T20:48:27.400Z,38.8121681,-122.8278351,1.89,0.92,md,16,59,0.003458,0.02,nc,nc73846916,2023-02-15T21:47:22.817Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.55,0.19,16,automatic,nc,nc
-2023-02-15T20:46:00.120Z,39.594,-123.0618333,12.14,1.8,md,23,86,0.09907,0.24,nc,nc73846911,2023-02-16T20:20:13.917Z,"22km NNW of Lake Pillsbury, CA",earthquake,0.5,0.94,0.237,26,reviewed,nc,nc
