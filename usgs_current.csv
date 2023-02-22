@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-22T10:33:23.090Z,33.021,-116.3485,9.48,1.47,ml,28,113,0.07165,0.24,ci,ci40417728,2023-02-22T10:37:01.714Z,"24km SW of Ocotillo Wells, CA",earthquake,0.46,1.02,0.228,22,automatic,ci,ci
 2023-02-22T09:56:56.244Z,62.9341,-148.9316,62.4,1.7,ml,,,,0.52,ak,ak0232ft6f20,2023-02-22T09:58:28.666Z,"51 km S of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-22T09:53:55.934Z,61.3947,-149.9302,32.9,2.1,ml,,,,0.36,ak,ak0232ft5rvt,2023-02-22T09:55:50.123Z,"4 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-22T09:41:16.267Z,31.6749352,-104.3698733,6.182983398,2.9,ml,25,57,0.05621785826,0.3,tx,tx2023drti,2023-02-22T09:56:34.040Z,"55 km S of Whites City, New Mexico",earthquake,0.9601071654,0.9468939641000002,0.1,14,reviewed,tx,tx
@@ -190,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T11:06:18.080Z,33.5338333,-116.7291667,4.42,0.44,ml,24,70,0.03221,0.09,ci,ci40417368,2023-02-21T21:42:31.702Z,"6km WSW of Anza, CA",earthquake,0.16,0.2,0.086,12,reviewed,ci,ci
 2023-02-21T11:01:41.148Z,23.5196,121.6889,42.997,4.5,mb,46,98,0.381,0.65,us,us6000jqis,2023-02-21T16:32:53.040Z,"51 km S of Hualien City, Taiwan",earthquake,3.95,5.706,0.097,31,reviewed,us,us
 2023-02-21T10:47:41.166Z,61.4413,-149.9076,33.9,1.4,ml,,,,0.59,ak,ak0232e66jk4,2023-02-21T10:49:26.451Z,"9 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-21T10:31:46.610Z,38.8363342,-122.8093338,1.76,0.61,md,11,78,0.01293,0.04,nc,nc73849306,2023-02-21T11:06:10.878Z,"8km WNW of Cobb, CA",earthquake,0.32,1,0.42,13,automatic,nc,nc
-2023-02-21T10:27:54.600Z,38.8274994,-122.8150024,2.49,0.23,md,9,119,0.005623,0.05,nc,nc73849296,2023-02-21T13:03:16.501Z,"8km NW of The Geysers, CA",earthquake,0.87,1.74,0.13,9,automatic,nc,nc
-2023-02-21T10:24:35.960Z,38.8341675,-122.8105011,2.05,1.63,md,29,38,0.01076,0.02,nc,nc73849286,2023-02-21T12:09:15.226Z,"8km W of Cobb, CA",earthquake,0.18,0.33,0.14,31,automatic,nc,nc
