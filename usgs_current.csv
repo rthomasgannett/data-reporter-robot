@@ -161,4 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T21:18:09.208Z,59.4862,-153.8417,131.8,2.2,ml,,,,0.22,ak,ak0232kypeyg,2023-02-25T21:29:40.040Z,"36 km SSE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-25T20:57:28.970Z,19.1844997406006,-155.467666625977,35.2099990844727,2.37,ml,40,97,,0.140000001,hv,hv73330697,2023-02-25T22:43:16.040Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.66,0.810000002,2.6,12,automatic,hv,hv
 2023-02-25T20:44:51.301Z,38.2582,73.0403,10,4.2,mb,18,96,1.556,0.83,us,us6000jrli,2023-02-25T22:32:20.040Z,"81 km W of Murghob, Tajikistan",earthquake,6.41,1.914,0.159,11,reviewed,us,us
-2023-02-25T20:40:21.864Z,60.8617,-150.4497,45.9,1.7,ml,,,,0.79,ak,ak0232ky8q2y,2023-02-25T20:42:54.239Z,"14 km ESE of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
