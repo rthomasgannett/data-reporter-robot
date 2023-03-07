@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-07T07:22:19.205Z,63.0397,-150.9442,120.1,2.5,ml,,,,0.64,ak,ak023319rp00,2023-03-07T07:24:22.151Z,"61 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-07T07:03:43.948Z,65.311,-148.3772,13,1.7,ml,,,,0.76,ak,ak023319nodd,2023-03-07T07:06:18.421Z,"25 km SSE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-07T07:01:09.129Z,60.5641,-147.5098,15.4,1.8,ml,,,,0.63,ak,ak023319n68w,2023-03-07T07:03:05.659Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T06:54:15.580Z,17.9941666666667,-66.8376666666667,15.53,2.33,md,9,165,0.04391,0.2,pr,pr71398673,2023-03-07T07:09:43.430Z,"1 km W of Indios, Puerto Rico",earthquake,0.59,0.86,0.197007614488711,6,reviewed,pr,pr
-2023-03-07T06:51:57.030Z,38.7919998,-122.8071671,6.44,0.76,md,8,234,0.01509,0.03,nc,nc73856336,2023-03-07T07:12:11.146Z,"5km WNW of The Geysers, CA",earthquake,3.49,5.97,0.05,8,automatic,nc,nc
+2023-03-07T06:51:57.030Z,38.7919998,-122.8071671,6.44,0.76,md,8,234,0.01509,0.03,nc,nc73856336,2023-03-07T07:18:15.185Z,"5km WNW of The Geysers, CA",earthquake,3.49,5.97,0.05,8,automatic,nc,nc
 2023-03-07T06:48:23.880Z,38.793335,-122.8051682,3.24,1.11,md,27,72,0.005264,0.02,nc,nc73856331,2023-03-07T07:06:16.114Z,"5km WNW of The Geysers, CA",earthquake,0.24,0.44,0.29,29,automatic,nc,nc
 2023-03-07T06:46:53.916Z,59.751,-152.6891,81.3,2,ml,,,,0.21,ak,ak023319bhbj,2023-03-07T07:00:20.929Z,"48 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-07T06:41:13.140Z,62.0436,-148.9144,38.4,1.3,ml,,,,0.41,ak,ak023319able,2023-03-07T06:43:21.006Z,"30 km NNW of Sutton-Alpine, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T07:32:55.140Z,36.9496667,-112.436,18.96,1.82,ml,7,265,0.3162,0.21,uu,uu60532701,2023-03-06T16:40:19.920Z,"8 km E of Fredonia, Arizona",earthquake,3.3,1.87,0.082,2,reviewed,uu,uu
 2023-03-06T07:30:15.203Z,58.3087,-155.0434,1.4,0.3,ml,,,,0.66,ak,ak0232zma1zk,2023-03-06T07:31:40.139Z,"89 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-06T07:26:38.540Z,17.8991666666667,-66.8795,14.93,2.64,md,9,234,0.07547,0.09,pr,pr71398523,2023-03-06T07:40:41.060Z,"Puerto Rico region",earthquake,0.63,0.52,0.0832933670647402,4,reviewed,pr,pr
-2023-03-06T07:22:39.190Z,38.8193321,-122.80867,3.09,0.99,md,19,45,0.004203,0.02,nc,nc73856001,2023-03-06T09:25:11.385Z,"6km NW of The Geysers, CA",earthquake,0.23,0.6,0.24,19,automatic,nc,nc
