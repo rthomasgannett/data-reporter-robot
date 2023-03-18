@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-18T07:03:45.242Z,37.4684,-118.1021,8,4,mw,4,,,,ew,ew1679123030,2023-03-18T07:03:57.390Z,"22 km S of Dyer, Nevada",earthquake,20.161,5,0.4,4,automatic,ew,ew
+2023-03-18T07:02:22.790Z,38.760334,-122.7271652,1.7,0.78,md,8,144,0.002197,0.02,nc,nc73858490,2023-03-18T07:03:59.381Z,"3km SE of The Geysers, CA",earthquake,0.6,0.46,0.17,6,automatic,nc,nc
+2023-03-18T07:00:53.210Z,35.5053333,-118.3918333,7.08,1.91,ml,30,35,0.1708,0.15,ci,ci40186367,2023-03-18T07:04:50.333Z,"13km SE of Bodfish, CA",earthquake,0.19,2.21,0.263,27,automatic,ci,ci
+2023-03-18T06:52:33.700Z,38.8181648,-122.803833,3.21,0.71,md,8,105,0.007144,0.01,nc,nc73858475,2023-03-18T06:54:09.734Z,"6km NW of The Geysers, CA",earthquake,0.43,1.33,0.08,10,automatic,nc,nc
+2023-03-18T06:49:39.070Z,33.6221667,-116.6221667,2.05,0.64,ml,14,56,0.03121,0.31,ci,ci40186359,2023-03-18T06:53:06.600Z,"9km NNE of Anza, CA",earthquake,0.94,0.66,0.198,18,automatic,ci,ci
+2023-03-18T06:49:35.210Z,33.5718333,-116.6395,13.46,0.56,ml,32,45,0.009068,0.17,ci,ci40186351,2023-03-18T06:53:04.946Z,"4km ENE of Anza, CA",earthquake,0.27,0.42,0.165,7,automatic,ci,ci
 2023-03-18T06:41:28.510Z,33.8565,-116.1988333,9.31,0.99,ml,35,74,0.06249,0.24,ci,ci40186343,2023-03-18T06:45:08.882Z,"15km N of Indio, CA",earthquake,0.32,0.88,0.153,27,automatic,ci,ci
 2023-03-18T06:32:50.210Z,17.9363333333333,-66.961,6.52,2.56,md,13,224,0.06129,0.1,pr,pr71400693,2023-03-18T06:44:21.420Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.47,0.3,0.0952829119315406,3,reviewed,pr,pr
 2023-03-18T06:03:54.740Z,33.3221667,-116.8945,19,0.81,ml,25,38,0.1329,0.18,ci,ci40186327,2023-03-18T06:07:26.452Z,"5km SW of Palomar Observatory, CA",earthquake,0.28,0.82,0.165,19,automatic,ci,ci
@@ -215,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T07:14:48.890Z,33.464,-116.5701667,8.84,0.79,ml,36,78,0.04067,0.16,ci,ci40185831,2023-03-17T14:45:30.270Z,"14km SE of Anza, CA",earthquake,0.19,0.39,0.157,23,reviewed,ci,ci
 2023-03-17T07:13:24.670Z,35.223,-97.73333333,6.04,2.24,ml,91,42,0.02339540902,0.38,ok,ok2023fhpa,2023-03-17T22:52:11.621Z,"1 km SSE of Bridge Creek, Oklahoma",earthquake,,0.6,0.23,42,reviewed,ok,ok
 2023-03-17T07:12:57.080Z,33.9023333,-116.668,14.82,1.49,ml,62,28,0.08206,0.19,ci,ci40185823,2023-03-17T07:23:57.860Z,"11km E of Cabazon, CA",earthquake,0.19,0.39,0.179,26,automatic,ci,ci
-2023-03-17T07:03:19.800Z,19.255500793457,-155.392333984375,31.3600006103516,1.75,ml,33,131,,0.159999996,hv,hv73341977,2023-03-17T07:08:49.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,0.839999974,0.65,5,automatic,hv,hv
