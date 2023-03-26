@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T05:59:38.030Z,46.85666666666667,-121.757,1.26,0.38,ml,18,92,0.02209,0.09,uw,uw61904732,2023-03-26T04:02:37.580Z,"23 km ENE of Ashford, Washington",earthquake,0.26,0.44,0.06407146450744225,6,reviewed,uw,uw
 2023-03-25T05:51:21.212Z,63.0193,-151.5563,8.5,1.9,ml,,,,0.22,ak,ak0233v0fant,2023-03-25T05:52:53.654Z,"58 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T05:46:02.702Z,58.1775,-155.399,2.7,0.5,ml,,,,0.81,ak,ak0233v0e6ni,2023-03-25T05:47:46.408Z,"87 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-03-25T05:31:51.090Z,19.1478328704834,-155.358505249023,29.5300006866455,1.97000003,md,36,190,,0.129999995,hv,hv73348792,2023-03-25T05:34:56.630Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.7,0.850000024,0.819999993,17,automatic,hv,hv
