@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-10T08:58:47.981Z,63.6054,-150.7211,5.6,1.9,ml,,,,0.69,ak,ak0234liupge,2023-04-10T09:00:44.717Z,"50 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-04-10T08:57:54.919Z,58.2981,-154.9185,1.1,0.5,ml,,,,0.24,ak,ak0234liui9v,2023-04-10T08:59:31.811Z,"85 km NNW of Karluk, Alaska",earthquake,,3.6,,,automatic,ak,ak
+2023-04-10T08:51:13.651Z,62.8061,-150.5685,79.2,2.6,ml,,,,0.51,ak,ak0234lit4rf,2023-04-10T08:53:20.876Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-10T08:50:12.680Z,38.7879982,-122.7630005,1.9,0.25,md,9,110,0.01738,0.02,nc,nc73870165,2023-04-10T09:02:11.519Z,"1km NNW of The Geysers, CA",earthquake,0.51,1.09,0.04,8,automatic,nc,nc
 2023-04-10T08:39:12.670Z,33.0096667,-116.264,3.05,0.4,ml,8,158,0.06412,0.18,ci,ci40439160,2023-04-10T08:42:48.405Z,"19km SW of Ocotillo Wells, CA",earthquake,0.58,0.85,0.19,3,automatic,ci,ci
 2023-04-10T08:28:54.881Z,60.4678,-152.7507,116.5,2.3,ml,,,,0.51,ak,ak0234lioajn,2023-04-10T08:31:50.815Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-10T07:49:21.580Z,33.2988333,-116.7446667,11.97,0.39,ml,9,109,0.06379,0.11,ci,ci40439152,2023-04-10T07:52:52.186Z,"7km NNE of Lake Henshaw, CA",earthquake,0.6,0.74,0.085,5,automatic,ci,ci
@@ -77,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T00:26:58.001Z,-3.468,149.0244,10,4.9,mb,24,71,3.214,0.62,us,us6000k375,2023-04-10T01:51:04.040Z,"220 km WSW of Kavieng, Papua New Guinea",earthquake,6.69,1.917,0.122,21,reviewed,us,us
 2023-04-10T00:23:06.790Z,37.5045013,-117.965332,-0.79,2.94,ml,20,147,0.3725,0.26,nc,nc73870040,2023-04-10T02:23:15.176Z,"15km N of Deep Springs, CA",earthquake,0.85,8.74,0.286,11,automatic,nc,nc
 2023-04-10T00:21:45.042Z,60.9903,-150.8168,39.6,2.6,ml,,,,0.5,ak,ak0234ldvaw8,2023-04-10T01:44:47.554Z,"10 km NW of Point Possession, Alaska",earthquake,,3.7,,,automatic,ak,ak
-2023-04-10T00:16:56.398Z,60.9926,-150.8212,51.7,4.6,ml,,,,0.88,ak,ak0234ldu94w,2023-04-10T08:25:14.686Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-04-10T00:16:56.398Z,60.9926,-150.8212,51.7,4.6,ml,,,,0.88,ak,ak0234ldu94w,2023-04-10T09:01:18.478Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-04-10T00:13:17.710Z,17.9871666666667,-66.97,10.24,3.2,md,16,160,0.07281,0.13,pr,pr71403518,2023-04-10T00:44:18.060Z,"5 km W of Fuig, Puerto Rico",earthquake,0.38,0.47,0.0942507187792685,8,reviewed,pr,pr
 2023-04-10T00:08:09.600Z,38.824501,-122.8538361,2.37,0.68,md,8,130,0.01475,0.01,nc,nc73870030,2023-04-10T00:49:12.578Z,"10km WNW of The Geysers, CA",earthquake,0.93,1.28,0.36,7,automatic,nc,nc
 2023-04-10T00:01:41.151Z,38.8572,-119.616,1.3,1.1,ml,10,177.5,0.087,0.2993,nn,nn00858023,2023-04-10T00:04:05.271Z,"2 km ESE of Carter Springs, Nevada",earthquake,,5.3,0.29,3,automatic,nn,nn
@@ -283,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T09:10:38.920Z,38.5125,-119.5366667,3.76,2.86,md,22,80,0.04466,0.05,nc,nc73869670,2023-04-09T23:44:16.175Z,"5km W of Walker, CA",earthquake,0.29,0.41,0.189,72,reviewed,nc,nc
 2023-04-09T09:09:10.750Z,37.336834,-121.6978302,7.69,2.47,md,58,54,0.0443,0.07,nc,nc73869660,2023-04-09T14:52:00.979Z,"12km ESE of Alum Rock, CA",earthquake,0.15,0.33,0.14,61,automatic,nc,nc
 2023-04-09T09:07:51.102Z,58.225,-155.1363,37.7,1,ml,,,,0.22,ak,ak0234jvlvaf,2023-04-09T14:53:35.560Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-09T08:51:28.149Z,37.7653,-116.01,2.2,1.5,ml,22,191.37,0.61,0.3541,nn,nn00857986,2023-04-09T08:54:01.914Z,"27 km WNW of Rachel, Nevada",earthquake,,12.8,0.92,14,automatic,nn,nn
