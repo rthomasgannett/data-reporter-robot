@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T11:46:50.135Z,42.1489,-120.166,4.9,0.1,ml,4,127.13,0.161,0.0721,nn,nn00858304,2023-04-17T15:09:34.629Z,"15 km ESE of Lakeview, Oregon",earthquake,,4.4,0.3,2,reviewed,nn,nn
 2023-04-17T11:46:28.007Z,63.5516,-147.455,3,1.5,ml,,,,0.83,ak,ak0234x5btlc,2023-04-17T11:48:39.018Z,"75 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-17T11:42:15.511Z,-31.8217,-178.8321,10,5,mb,25,76,2.67,0.51,us,us6000k51a,2023-04-17T12:00:01.040Z,"Kermadec Islands region",earthquake,9.85,1.866,0.092,38,reviewed,us,us
-2023-04-17T11:39:11.410Z,38.8323326,-122.8154984,1.77,0.76,md,8,67,0.009879,0.01,nc,nc73874665,2023-04-17T11:56:13.759Z,"8km NW of The Geysers, CA",earthquake,0.38,1.14,0.24,9,automatic,nc,nc
