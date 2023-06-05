@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T17:34:10.657Z,18.4615,145.5893,163.784,4.4,mb,48,99,3.208,0.76,us,us7000k6gp,2023-06-05T18:42:15.040Z,"Pagan region, Northern Mariana Islands",earthquake,12.16,8.767,0.062,75,reviewed,us,us
 2023-06-05T17:31:20.295Z,61.6151,-150.0924,35.2,1.6,ml,,,,0.63,ak,ak02376a5731,2023-06-05T17:33:23.816Z,"12 km NW of Big Lake, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-06-05T17:25:36.120Z,38.8153343,-122.828331,1.91,1.08,md,15,78,0.006491,0.02,nc,nc73897331,2023-06-05T18:16:12.553Z,"8km NW of The Geysers, CA",earthquake,0.27,0.62,0.36,18,automatic,nc,nc
-2023-06-05T17:23:06.040Z,33.994,-116.6131667,14.41,1.94,ml,63,32,0.05298,0.2,ci,ci40478904,2023-06-05T17:34:27.080Z,"7km SSW of Morongo Valley, CA",earthquake,0.19,0.42,0.169,26,automatic,ci,ci
+2023-06-05T17:23:05.920Z,33.9926667,-116.6125,14.75,1.95,ml,62,32,0.0544,0.12,ci,ci40478904,2023-06-05T20:47:47.020Z,"7km SSW of Morongo Valley, CA",earthquake,0.11,0.23,0.167,26,reviewed,ci,ci
 2023-06-05T17:22:59.870Z,33.9995,-116.6183333,16.09,1.07,ml,28,96,0.04604,0.28,ci,ci40478896,2023-06-05T17:26:45.108Z,"6km SSW of Morongo Valley, CA",earthquake,0.39,0.94,0.153,8,automatic,ci,ci
 2023-06-05T17:22:08.602Z,58.2167,-155.062,1.5,1.4,ml,,,,0.48,ak,ak02376a38qk,2023-06-05T17:23:53.437Z,"80 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-05T17:22:02.420Z,33.9923333,-116.6155,14.09,1.95,ml,65,32,0.05338,0.19,ci,ci40478888,2023-06-05T17:33:22.170Z,"7km SSW of Morongo Valley, CA",earthquake,0.18,0.42,0.155,26,automatic,ci,ci
