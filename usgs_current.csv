@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-20T02:49:13.330Z,33.4625,-116.5825,8.88,0.92,ml,39,75,0.03609,0.19,ci,ci40489488,2023-06-20T02:52:40.395Z,"13km SE of Anza, CA",earthquake,0.23,0.56,0.168,26,automatic,ci,ci
+2023-06-20T02:30:30.627Z,-23.524,-67.7856,141.824,4.3,mb,19,99,0.674,0.68,us,us7000k9sb,2023-06-20T02:49:48.040Z,"80 km SSE of San Pedro de Atacama, Chile",earthquake,8.36,5.173,0.202,7,reviewed,us,us
 2023-06-20T02:15:35.060Z,33.8395,-117.17,11.79,1.44,ml,50,46,0.03675,0.25,ci,ci40489464,2023-06-20T02:19:11.139Z,"5km NNW of Nuevo, CA",earthquake,0.3,0.7,0.215,29,automatic,ci,ci
 2023-06-20T02:04:19.792Z,61.6921,-151.7409,82.5,1.6,ml,,,,0.63,ak,ak0237uu441n,2023-06-20T02:06:26.752Z,"37 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-20T01:51:39.550Z,33.265,-116.4315,4.85,1.98,ml,60,25,0.01243,0.18,ci,ci40489440,2023-06-20T02:02:11.580Z,"5km W of Borrego Springs, CA",earthquake,0.2,0.79,0.192,25,automatic,ci,ci
@@ -151,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T09:13:46.214Z,63.2819,-150.4655,107.8,1.4,ml,,,,0.41,ak,ak0237tass9y,2023-06-19T09:16:54.922Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-06-19T08:55:11.300Z,23.1208,-108.4155,10,5.2,mww,111,145,1.513,0.66,us,us7000k9ja,2023-06-20T02:23:44.986Z,"Gulf of California",earthquake,6.17,1.813,0.078,16,reviewed,us,us
 2023-06-19T08:47:04.780Z,40.5791667,-124.1456667,18.97,1.72,md,25,50,0.08651,0.17,nc,nc73902831,2023-06-19T19:59:15.441Z,"2km SSE of Fortuna, CA",earthquake,0.35,0.56,0.235,18,reviewed,nc,nc
+2023-06-19T08:37:36.260Z,58.2568333333333,-155.0625,4.15,0.08,ml,12,112,,0.23,av,av91930341,2023-06-20T02:53:30.050Z,"84 km NNW of Karluk, Alaska",earthquake,0.34,0.73,0.230881066139795,12,reviewed,av,av
 2023-06-19T08:36:47.141Z,61.048,-149.4543,34,1.5,ml,,,,0.94,ak,ak0237taca7e,2023-06-19T08:40:12.231Z,"17 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-19T08:34:51.220Z,37.939,-118.622,12.18,2.23,md,34,73,0.2423,0.21,nc,nc73902821,2023-06-20T01:02:10.322Z,"42km SSW of Qualeys Camp, NV",earthquake,0.48,1.41,0.198,28,reviewed,nc,nc
 2023-06-19T08:33:04.389Z,63.9592,-148.8206,111.8,1.8,ml,,,,0.3,ak,ak0237tabjra,2023-06-19T08:35:14.090Z,"13 km NNE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -222,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-19T03:31:41.848Z,65.0617,-147.0242,0,0.9,ml,,,,1.45,ak,ak0237t7c16s,2023-06-19T03:34:35.598Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-19T03:21:04.774Z,-44.3071,-81.7815,10,4.5,mb,35,156,7.069,0.58,us,us7000k9hw,2023-06-19T03:39:01.040Z,"West Chile Rise",earthquake,7.7,1.937,0.111,24,reviewed,us,us
 2023-06-19T03:07:56.003Z,63.476,-146.0967,11.3,0.8,ml,,,,0.16,ak,ak0237t76x3k,2023-06-19T03:09:11.992Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-19T02:56:04.744Z,61.5086,-149.9762,32.7,1.2,ml,,,,0.12,ak,ak0237t6vvmi,2023-06-19T02:57:27.086Z,"1 km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
