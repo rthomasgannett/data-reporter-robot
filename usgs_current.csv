@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-21T08:06:29.260Z,35.4998322,-118.3993301,2.93,1.27,ml,21,104,0.1736,0.18,ci,ci40490704,2023-06-21T08:08:34.528Z,"13km SE of Bodfish, CA",earthquake,0.39,1.5,0.155,5,automatic,ci,ci
+2023-06-21T08:22:41.690Z,37.3114,-117.5966,0,0.6,ml,13,174.47,0.088,0.3291,nn,nn00861495,2023-06-21T08:25:22.222Z,"49 km S of Silver Peak, Nevada",earthquake,,23.3,0.9,8,automatic,nn,nn
+2023-06-21T08:06:29.310Z,35.499,-118.3978333,4.67,1.21,ml,17,67,0.1748,0.13,ci,ci40490704,2023-06-21T08:17:17.134Z,"13km SE of Bodfish, CA",earthquake,0.25,1.75,0.086,11,automatic,ci,ci
 2023-06-21T07:58:27.810Z,36.1123333,-117.8795,4.74,1.32,ml,10,137,0.02063,0.19,ci,ci40490696,2023-06-21T08:01:59.460Z,"10km NE of Coso Junction, CA",earthquake,0.63,0.8,0.156,7,automatic,ci,ci
 2023-06-21T07:41:20.550Z,38.8255005,-122.8570023,2.44,1.21,md,19,98,0.01708,0.01,nc,nc73903531,2023-06-21T07:59:20.617Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.47,0.23,19,automatic,nc,nc
 2023-06-21T07:37:52.984Z,37.2938,-104.4766,6.174,2.1,ml,9,138,0.163,0.27,us,us7000ka1m,2023-06-21T08:01:16.040Z,"7 km N of El Moro, Colorado",earthquake,2.15,2.73,0.128,8,reviewed,us,us
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T01:38:40.352Z,61.7749,-146.9059,20,1.6,ml,,,,0.63,ak,ak0237wh9ctz,2023-06-21T01:40:12.357Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-21T01:37:19.330Z,18.1956666666667,-67.0705,20.85,2.53,md,9,71,0.07652,0.1,pr,pr71414208,2023-06-21T01:48:57.480Z,"Puerto Rico",earthquake,0.3,1.4,0.0871246929095042,5,reviewed,pr,pr
 2023-06-21T01:35:34.772Z,63.1543,-150.1972,103,1.6,ml,,,,0.14,ak,ak0237wh8pad,2023-06-21T01:37:07.991Z,"67 km WSW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-06-21T01:30:35.770Z,36.6958333,-121.3663333,0.99,1.33,md,26,60,0.01971,0.17,nc,nc73903451,2023-06-21T07:07:16.295Z,"11km SSW of Tres Pinos, CA",earthquake,0.32,0.58,0.293,21,reviewed,nc,nc
+2023-06-21T01:30:35.770Z,36.6958333,-121.3663333,0.99,1.33,md,26,60,0.01971,0.17,nc,nc73903451,2023-06-21T08:12:18.695Z,"11km SSW of Tres Pinos, CA",earthquake,0.32,0.58,0.293,21,reviewed,nc,nc
 2023-06-21T01:22:45.510Z,19.1259994506836,-155.40283203125,31.6100006103516,2.13000011,md,40,182,,0.100000001,hv,hv73456927,2023-06-21T01:25:56.550Z,"11 km SE of Pāhala, Hawaii",earthquake,0.57,0.779999971,0.579999983,17,automatic,hv,hv
 2023-06-21T01:02:55.199Z,61.2359,-149.9413,41.6,1.1,ml,,,,0.14,ak,ak0237wh1o8f,2023-06-21T01:04:39.363Z,"2 km NW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-21T00:50:23.030Z,33.5503333,-116.6678333,4.08,0.73,ml,13,96,0.03513,0.29,ci,ci40490464,2023-06-21T00:54:15.321Z,"1km SE of Anza, CA",earthquake,0.58,1.32,0.251,10,automatic,ci,ci
@@ -245,4 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-20T08:39:18.170Z,-0.9802,98.6091,22.438,5.5,mww,118,52,2.493,0.77,us,us7000k9ti,2023-06-20T10:42:40.030Z,"Kepulauan Batu, Indonesia",earthquake,8.02,4.627,0.093,11,reviewed,us,us
 2023-06-20T08:37:00.540Z,37.6328333,-119.048,-1.75,0.73,md,5,139,0.01805,0.01,nc,nc73903166,2023-06-20T23:51:13.612Z,"6km W of Mammoth Lakes, CA",earthquake,0.25,1.23,0.33,5,reviewed,nc,nc
 2023-06-20T08:36:04.230Z,33.0293333,-116.4331667,7.14,0.92,ml,33,67,0.06041,0.16,ci,ci40489608,2023-06-20T13:14:47.760Z,"17km ESE of Julian, CA",earthquake,0.22,0.77,0.153,17,reviewed,ci,ci
-2023-06-20T08:13:30.920Z,58.3001666666667,-155.000166666667,3.22,0.12,ml,7,136,,0.13,av,av91931296,2023-06-21T01:30:02.100Z,"87 km NNW of Karluk, Alaska",earthquake,0.44,0.66,0.268158706178602,8,reviewed,av,av
