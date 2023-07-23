@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T16:43:17.880Z,33.8943333,-116.3676667,6.52,0.51,ml,9,109,0.05749,0.25,ci,ci39619890,2023-07-23T16:46:56.014Z,"8km NNE of Thousand Palms, CA",earthquake,0.53,1.35,0.211,6,automatic,ci,ci
 2023-07-23T16:27:50.175Z,64.7537,-151.1548,16.9,1,ml,,,,0.56,ak,ak0239dnbmmh,2023-07-23T16:30:09.434Z,"37 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-23T16:02:25.520Z,-49.3085,-10.4054,10,4.9,mb,24,78,16.836,0.76,us,us7000khty,2023-07-23T16:18:03.040Z,"southwestern Atlantic Ocean",earthquake,6.56,1.912,0.112,25,reviewed,us,us
 2023-07-23T15:59:54.220Z,19.1461658477783,-155.499664306641,31.8199996948242,2.1400001,md,36,155,,0.0900000036,hv,hv73494252,2023-07-23T16:03:00.750Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.5,0.819999993,0.00999999978,5,automatic,hv,hv
 2023-07-23T15:55:24.900Z,42.27016666666667,-124.4085,-0.24,1.43,ml,9,212,0.06071,0.31,uw,uw61943111,2023-07-23T16:14:53.680Z,"1 km SW of Pistol River, Oregon",earthquake,0.9,0.52,0.07249816685390986,5,reviewed,uw,uw
+2023-07-23T15:54:03.824Z,-3.203,139.8968,51.615,4.5,mb,18,105,1.056,0.8,us,us7000khtw,2023-07-23T16:38:58.040Z,"105 km SW of Abepura, Indonesia",earthquake,6.35,11.528,0.139,15,reviewed,us,us
 2023-07-23T15:51:47.750Z,17.9163333333333,-66.519,13.68,3.29,md,21,195,0.1131,0.14,pr,pr71419013,2023-07-23T16:19:10.000Z,"8 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.44,0.29,0.117189461434532,15,reviewed,pr,pr
 2023-07-23T15:33:11.082Z,63.0184,-149.1733,73.9,0.8,ml,,,,0.23,ak,ak0239dmreas,2023-07-23T15:34:43.749Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-23T15:22:13.550Z,19.3899993896484,-155.275665283203,0.800000011920929,2.66,ml,36,51,,0.189999998,hv,hv73494227,2023-07-23T16:27:06.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.230000004,2.72,24,automatic,hv,hv
