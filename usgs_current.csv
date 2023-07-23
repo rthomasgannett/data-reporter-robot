@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T15:33:11.082Z,63.0184,-149.1733,73.9,0.8,ml,,,,0.23,ak,ak0239dmreas,2023-07-23T15:34:43.749Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-23T15:22:13.550Z,19.3899993896484,-155.275665283203,0.800000011920929,2.66,ml,36,51,,0.189999998,hv,hv73494227,2023-07-23T15:27:44.030Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.230000004,2.72,24,automatic,hv,hv
 2023-07-23T15:05:15.307Z,64.9652,-149.7203,18.9,0.6,ml,,,,0.2,ak,ak0239dmlekq,2023-07-23T15:07:40.847Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-23T15:03:21.175Z,63.2749,-151.0223,8.5,1,ml,,,,0.81,ak,ak0239dmkzlc,2023-07-23T15:06:02.486Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
