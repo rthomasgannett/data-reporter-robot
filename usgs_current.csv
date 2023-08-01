@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-01T09:46:28.470Z,33.1606667,-115.656,1.39,1.17,ml,12,96,0.03589,0.15,ci,ci39626698,2023-08-01T09:50:02.959Z,"14 km WNW of Calipatria, CA",earthquake,0.42,0.7,0.345,12,automatic,ci,ci
 2023-08-01T09:35:56.485Z,66.2381,-150.6875,3.3,1,ml,,,,0.54,ak,ak0239sf1g1s,2023-08-01T09:38:05.300Z,"76 km WNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-01T09:35:37.041Z,60.1155,-147.859,19.1,1.6,ml,,,,0.65,ak,ak0239sf1eip,2023-08-01T09:37:57.351Z,"10 km ENE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-01T09:19:58.494Z,61.2979,-150.5603,11.1,1.4,ml,,,,0.59,ak,ak0239sey0qx,2023-08-01T09:22:14.984Z,"27 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -240,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T10:03:53.045Z,31.32026604,-103.3945253,5.771655273,1.8,ml,17,60,0.0733059939,0.1,tx,tx2023owhb,2023-07-31T20:15:05.712Z,"14 km ESE of Lindsay, Texas",earthquake,0.7843572292,1.325836785,0.1,6,reviewed,tx,tx
 2023-07-31T09:57:24.120Z,38.8231659,-122.8288345,1.82,0.75,md,12,56,0.00484,0.02,nc,nc73918661,2023-07-31T11:33:14.748Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.76,0.35,13,automatic,nc,nc
 2023-07-31T09:56:09.100Z,38.8203333,-122.8271667,2.24,1.93,md,77,22,0.006742,0.05,nc,nc73918656,2023-08-01T01:17:12.498Z,"8 km NW of The Geysers, CA",earthquake,0.1,0.14,0.195,81,reviewed,nc,nc
-2023-07-31T09:41:17.440Z,37.4928333,-121.8375,7.67,1.4,md,39,52,0.02254,0.07,nc,nc73918651,2023-08-01T00:45:16.304Z,"9 km NE of Milpitas, CA",earthquake,0.15,0.26,0.126,29,reviewed,nc,nc
